@@ -12,7 +12,7 @@ Desenvolvedor web. Faço sites e sistemas com Next.js e TypeScript, e uso IA (Cl
 |---|---|---|
 | **[meu-kit-claude-code](https://github.com/matheus-rib1108/meu-kit-claude-code)** | Kit grátis do Claude em português: 114 skills, 29 agentes e plugins, com `.zip` pra instalar no claude.ai e 1 comando no Claude Code. Se atualiza sozinho. | [Ver o kit](https://github.com/matheus-rib1108/meu-kit-claude-code) |
 | **[StockFlow B2B](https://github.com/matheus-rib1108/-JTEKT)** | Plataforma B2B para gestão, redistribuição e venda de estoque entre empresas. | [Abrir o site](https://jtekt.vercel.app) |
-| **[NEXA](https://github.com/matheus-rib1108/nexa)** | App de organização e foco para quem tem dificuldade em planejar e começar tarefas: login, banco de dados e estatísticas de verdade. | [Abrir o app](https://project-m29s9.vercel.app) |
+| **[NEXA](https://github.com/matheus-rib1108/nexa)** | App de organização e foco para quem tem dificuldade em planejar e começar tarefas: login, banco de dados e estatísticas de verdade. | [Abrir o app](https://nexa-app-two-gilt.vercel.app) |
 
 ## Com o que eu trabalho
 
